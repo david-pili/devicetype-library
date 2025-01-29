@@ -1,0 +1,149 @@
+---
+manufacturer: FS
+model: N8550-64C
+slug: fs-n8550-6fc
+part_number: N8550-64C
+u_height: 2
+is_full_depth: true
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 850
+  - name: PS2
+    type: iec-60320-c14
+    maximum_draw: 850
+interfaces:
+  - name: eth0
+    type: 1000base-t
+    mgmt_only: true
+  - name: xe-1/1/1
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/2
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/3
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/4
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/5
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/6
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/7
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/8
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/9
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/10
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/11
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/12
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/13
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/14
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/15
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/16
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/17
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/18
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/19
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/20
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/21
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/22
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/23
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/24
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/25
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/26
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/27
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/28
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/29
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/30
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/31
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/32
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/33
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/34
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/35
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/36
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/37
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/38
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/39
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/40
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/41
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/42
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/43
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/44
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/45
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/46
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/47
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/48
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/49
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/50
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/51
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/52
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/53
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/54
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/55
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/56
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/57
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/58
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/59
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/60
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/61
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/62
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/63
+    type: 100gbase-x-qsfp28
+  - name: xe-1/1/64
+    type: 100gbase-x-qsfp28
